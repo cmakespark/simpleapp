@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5.2 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.16...3.25 FATAL_ERROR)
 
 project(SimpleApp LANGUAGES CXX)
 
